@@ -3,6 +3,8 @@
 }
 
 .container-logo {
+  display: flex;
+  justify-content: center;
   background-color: aliceblue;
 }
 
