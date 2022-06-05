@@ -1,0 +1,11 @@
+.header {
+  background-color: red;
+}
+
+.container-logo {
+  background-color: aliceblue;
+}
+
+.container-logo img {
+  width: 2em;
+}
